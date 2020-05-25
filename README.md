@@ -1,4 +1,6 @@
-# test2
+# ussd
+
+application implemented for using ussd
 
 
 ## Contributor
